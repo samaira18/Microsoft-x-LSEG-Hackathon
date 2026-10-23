@@ -3,7 +3,7 @@ from openai import AzureOpenAI
 endpoint = "https://app-uoaihack2ix6ak.azurewebsites.net"
 model_name = "text-embedding-3-large"
 
-api_key = "<https://app-uoaihack2ix6ak.azurewebsites.net>"
+api_key = "<4xLalRvfRVKyytYXp9sJK205JTyhwHmhKJuxruydYRHEkJQt>"
 api_version = "2024-12-01-preview"
 
 client = AzureOpenAI(
