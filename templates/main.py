@@ -3,7 +3,7 @@ from openai import AzureOpenAI
 endpoint = "https://app-uoaihack2ix6ak.azurewebsites.net"
 model_name = "gpt-6.1-sol"
 
-api_key = "<>"
+api_key = ""
 api_version = "2024-12-01-preview"
 
 client = AzureOpenAI(

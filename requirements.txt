@@ -1,1 +1,8 @@
 openai==2.36.0
+numpy
+pandas>=2.2
+yfinance
+requests
+python-dotenv
+pytest
+streamlit
